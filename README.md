@@ -96,7 +96,7 @@ File: eg:App_scrape.ipynb
 Update the scraping configuration (provide app page URL or relevant inputs).
 Run the cells step by step.
 
-📊 How It Works & Output
+## 📊 How It Works & Output
 
 ### **1. App_scrape.ipynb**
 
@@ -122,7 +122,7 @@ Save as CSV:
 
 The cleaned reviews, ratings, and metadata are saved into a structured CSV file.
 
-#### **Output:**
+**Output:**
 
 CSV File:
 The resulting CSV file contains:
@@ -155,7 +155,7 @@ Visualization:
 
 The notebook visualizes insights using matplotlib and seaborn.
 
-#### **Output:**
+**Output:**
 
 CSV File:
 
@@ -188,7 +188,7 @@ Insights:
 
 The most frequent n-grams provide insights into common themes and phrases in the reviews.
 
-#### **Output:**
+**Output:**
 
 Frequency Lists:
 
@@ -219,7 +219,7 @@ Uses matplotlib and seaborn for visualizing statistics like:
 Rating distribution charts.
 Review length distribution (histograms).
 
-#### **Output:**
+**Output:**
 
 Descriptive Statistics:
 Rating summary (mean, median, mode).
@@ -232,20 +232,20 @@ Review length distribution (histograms).
 
 ## **📝 Usage**
 
-** App_scrape.ipynb**
+**App_scrape.ipynb**
 
 Use the generated CSV for further analysis of user satisfaction and app performance.
 
-** Code for app scraping and EDA.ipynb **
+**Code for app scraping and EDA.ipynb**
 
 Visualizations such as rating distribution and review frequency trends will help you analyze user satisfaction and app performance.
 
-** UNI, BI, TRIGRAMS.ipynb **
+**UNI, BI, TRIGRAMS.ipynb**
 
 The notebook will output a frequency list of common words, pairs, and triplets used in the reviews.
 Analyze the results to identify recurring themes and patterns within the app reviews.
 
-**Descriptive_stats_for_apps.ipynb **
+**Descriptive_stats_for_apps.ipynb**
 
 Visualizations such as rating distribution and review length histograms will be generated for analysis.
 Use the output to gain insights into user sentiment and the overall app performance.
