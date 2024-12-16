@@ -232,20 +232,20 @@ Review length distribution (histograms).
 
 ## **📝 Usage**
 
-### App_scrape.ipynb
+** App_scrape.ipynb**
 
 Use the generated CSV for further analysis of user satisfaction and app performance.
 
-### Code for app scraping and EDA.ipynb 
+** Code for app scraping and EDA.ipynb **
 
 Visualizations such as rating distribution and review frequency trends will help you analyze user satisfaction and app performance.
 
-### UNI, BI, TRIGRAMS.ipynb 
+** UNI, BI, TRIGRAMS.ipynb **
 
 The notebook will output a frequency list of common words, pairs, and triplets used in the reviews.
 Analyze the results to identify recurring themes and patterns within the app reviews.
 
-### Descriptive_stats_for_apps.ipynb 
+**Descriptive_stats_for_apps.ipynb **
 
 Visualizations such as rating distribution and review length histograms will be generated for analysis.
 Use the output to gain insights into user sentiment and the overall app performance.
